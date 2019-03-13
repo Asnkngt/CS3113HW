@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw2 pong\hw2 pong\main.cpp(19): warning C4005: 'RESOURCE_FOLDER': macro redefinition
+  d:\desktop\nyu classes\cs3113 game\cs3113hw\hw2 pong\hw2 pong\main.cpp(17): note: see previous definition of 'RESOURCE_FOLDER'
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw2 pong\hw2 pong\main.cpp(216): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ShaderProgram.cpp
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw2 pong\hw2 pong\shaderprogram.cpp(104): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

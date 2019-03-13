@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw2 pong\hw2 pong\main.cpp(109): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  HW2 Pong.vcxproj -> D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\HW2 Pong\Debug\HW2 Pong.exe

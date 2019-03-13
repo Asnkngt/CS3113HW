@@ -1,3 +1,5 @@
 ﻿  main.cpp
-d:\desktop\nyu classes\cs3113 game\hw\hw1\nyucodebase\main.cpp(184): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  NYUCodebase.vcxproj -> D:\Desktop\NYU Classes\CS3113 Game\HW\HW1\Debug\NYUCodebase.exe
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw1\nyucodebase\main.cpp(185): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ShaderProgram.cpp
+  Generating Code...
+  NYUCodebase.vcxproj -> D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\HW1\Debug\NYUCodebase.exe
