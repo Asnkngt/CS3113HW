@@ -37,6 +37,7 @@ glm::mat4 viewMatrix;
 glm::mat4 mat;
 ShaderProgram shader;
 glm::vec4* colors;
+const Uint8 *keys;
 
 float rectY = 2.0f;//distance from center
 float rectX = 0.5f;//distance from center
@@ -93,8 +94,6 @@ void init() {
 }
 
 void GameLogic(const float& elapsed, const float& currentTick) {
-    const Uint8 *keys = SDL_GetKeyboardState(NULL);
-
     //don't process inputs until its running
     //HIT ENTER/RETURN TO START PLAYING
     if (!running) {
@@ -226,7 +225,8 @@ int main(int argc, char *argv[])
     mat = glm::mat4(1.0f);
     projectionMatrix = glm::ortho(-screenX, screenX, -screenY, screenY, -1.0f, 1.0f);
     viewMatrix = glm::mat4(1.0f);
-    
+    keys = SDL_GetKeyboardState(NULL);
+
     //object 0 is left paddle
     //object 1 is right paddle
     //object 2 is ball
