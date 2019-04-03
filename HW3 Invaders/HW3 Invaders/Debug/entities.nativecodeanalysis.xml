@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+      <FILENAME>entities.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Entities::entityType' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Entities::{ctor}</FUNCTION>
+    <DECORATED>??0Entities@@QAE@U?$vec@$02M$0A@@glm@@0U?$vec@$03M$0A@@2@@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+      <FILENAME>entities.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Entities::vertCount' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Entities::{ctor}</FUNCTION>
+    <DECORATED>??0Entities@@QAE@U?$vec@$02M$0A@@glm@@0U?$vec@$03M$0A@@2@@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+      <FILENAME>entities.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Entities::verts' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Entities::{ctor}</FUNCTION>
+    <DECORATED>??0Entities@@QAE@U?$vec@$02M$0A@@glm@@0U?$vec@$03M$0A@@2@@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+      <FILENAME>entities.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Entities::uvs' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Entities::{ctor}</FUNCTION>
+    <DECORATED>??0Entities@@QAE@U?$vec@$02M$0A@@glm@@0U?$vec@$03M$0A@@2@@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+      <FILENAME>entities.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Entities::uvs' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Entities::{ctor}</FUNCTION>
+    <DECORATED>??0Entities@@QAE@PAVShaderProgram@@PAU?$mat@$03$03M$0A@@glm@@1U?$vec@$02M$0A@@3@2U?$vec@$03M$0A@@3@@Z</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+      <FILENAME>entities.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>6305</DEFECTCODE>
+    <DESCRIPTION>Potential mismatch between sizeof and countof quantities. Use sizeof() to scale byte sizes.</DESCRIPTION>
+    <FUNCTION>Entities::SetType</FUNCTION>
+    <DECORATED>?SetType@Entities@@QAEXABW4EntityType@@@Z</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>2</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+        <FILENAME>entities.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+        <FILENAME>entities.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+        <FILENAME>entities.cpp</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+        <FILENAME>entities.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+        <FILENAME>entities.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+        <FILENAME>entities.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>35</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders</FILEPATH>
+        <FILENAME>entities.cpp</FILENAME>
+        <LINE>77</LINE>
+        <COLUMN>45</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Expression mixes element counts and byte quantities</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
