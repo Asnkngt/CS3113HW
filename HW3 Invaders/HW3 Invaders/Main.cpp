@@ -524,7 +524,7 @@ int main(int argc, char *argv[])
     for (Entities& e : entities) {
         e.SetType(EntityType::VOID);
     }
-    for (Entities& e : entities) {
+    for (Entities& e : text) {
         e.SetType(EntityType::VOID);
     }
     shaderDefault.Cleanup();
