@@ -1,5 +1,6 @@
-﻿  main.cpp
+﻿  ShaderProgram.cpp
+  main.cpp
 d:\desktop\nyu classes\cs3113 game\cs3113hw\hw1\nyucodebase\main.cpp(185): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  ShaderProgram.cpp
   Generating Code...
+  LINK : D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\HW1\Debug\NYUCodebase.exe not found or not built by the last incremental link; performing full link
   NYUCodebase.vcxproj -> D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\HW1\Debug\NYUCodebase.exe

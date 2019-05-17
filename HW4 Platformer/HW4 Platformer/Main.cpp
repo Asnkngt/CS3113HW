@@ -311,8 +311,7 @@ void FixedUpdate() {
     }
 }
 
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]) {
     initGl();
     textLoader = TTFText(RESOURCE_FOLDER"expressway");
     if (!textLoader.LoadFont(4)) {

@@ -1,0 +1,4 @@
+﻿  SceneGame.cpp
+d:\desktop\nyu classes\cs3113 game\cs3113hw\final\final\scenegame.cpp(529): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\nyu classes\cs3113 game\cs3113hw\final\final\scenegame.cpp(595): warning C4018: '>': signed/unsigned mismatch
+  Final.vcxproj -> D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\Final\Debug\Final.exe

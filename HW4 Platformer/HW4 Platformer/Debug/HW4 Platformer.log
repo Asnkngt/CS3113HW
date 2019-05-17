@@ -1,2 +1,8 @@
-﻿  Main.cpp
+﻿  Entity.cpp
+  Main.cpp
+  ShaderProgram.cpp
+  TextureManager.cpp
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw4 platformer\hw4 platformer\texturemanager.cpp(54): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  Generating Code...
+  LINK : D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\HW4 Platformer\Debug\HW4 Platformer.exe not found or not built by the last incremental link; performing full link
   HW4 Platformer.vcxproj -> D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\HW4 Platformer\Debug\HW4 Platformer.exe

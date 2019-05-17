@@ -1,2 +1,7 @@
-﻿  Main.cpp
+﻿  Entities.cpp
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders\entities.cpp(121): warning C4101: 'tmpData': unreferenced local variable
+  Main.cpp
+  TextureManager.cpp
+d:\desktop\nyu classes\cs3113 game\cs3113hw\hw3 invaders\hw3 invaders\texturemanager.cpp(54): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  Generating Code...
   HW3 Invaders.vcxproj -> D:\Desktop\NYU Classes\CS3113 Game\CS3113HW\HW3 Invaders\Debug\HW3 Invaders.exe
